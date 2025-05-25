@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Dungeon CrawlerV2<br><br>🌱 I’m currently learning: Java<br><br>⚡ Fun fact: I'm really interested in Homelabbing and software Engineering 
+🔭 I’m currently working on: Nothing😭<br><br>🌱 I’m currently learning: C++<br><br>⚡ Fun fact: I'm really interested in Homelabbing and software Engineering 
 
 
 # 💻 Tech Stack:
